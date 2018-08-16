@@ -1,0 +1,2 @@
+# m_javaSe8_forTheReallyImpatient
+写给大忙人看的JavaSE8
